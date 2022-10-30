@@ -1,6 +1,6 @@
 module raknet
 
-import bytes
+import vtils.bytes
 import net
 import sync
 

@@ -1,6 +1,6 @@
 module raknet
 
-import bytes
+import vtils.bytes
 import encoding.binary
 
 const (
